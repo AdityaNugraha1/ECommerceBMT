@@ -9,7 +9,7 @@ Berikut adalah panduan untuk menginstal dan menjalankan proyek ini di lingkungan
 Pertama, clone repositori ini ke mesin lokal Anda menggunakan Git.
 
 ```bash
-git clone [https://github.com/AdityaNugraha1/ECommerceBMT.git](https://github.com/AdityaNugraha1/ECommerceBMT.git)
+git clone https://github.com/AdityaNugraha1/ECommerceBMT.git
 cd ECommerceBMT
 ```
 
