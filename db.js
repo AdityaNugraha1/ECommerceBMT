@@ -108,7 +108,7 @@ db.serialize(() => {
     { name: 'Sneakers', price: 300000, stock: 10, description: 'Sneakers casual untuk gaya santai', image: '/images/sneakers.jpg' },
     { name: 'Jaket Bomber', price: 250000, stock: 8, description: 'Jaket bomber hangat dan stylish', image: '/images/jaketbomber.jpeg' },
     { name: 'Jam Tangan', price: 500000, stock: 5, description: 'Jam tangan analog elegan', image: '/images/jam-tangan.jpeg' },
-    { name: 'Ransel', price: 200000, stock: 12, description: 'Ransel tahan lama untuk kerja/sekolah', image: '/images/ransel.jpg' },
+    { name: 'Ransel', price: 200000, stock: 12, description: 'Ransel tahan lama untuk kerja/sekolah', image: '/images/ransel.png' },
     { name: 'Topi Baseball', price: 60000, stock: 30, description: 'Topi baseball model terbaru', image: '/images/topi-baseball.jpeg' },
     { name: 'Kacamata Hitam', price: 120000, stock: 18, description: 'Kacamata hitam proteksi UV', image: '/images/kacamata-hitam.jpeg' },
     { name: 'Dress Wanita', price: 350000, stock: 6, description: 'Dress cantik untuk acara special', image: '/images/DressWanita.jpeg' },
