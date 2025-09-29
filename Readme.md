@@ -30,3 +30,13 @@ npm start
 ```
 
 Aplikasi sekarang seharusnya sudah berjalan dan dapat diakses melalui browser di http://localhost:3000.
+
+### 4. Akses Admin
+
+Untuk masuk sebagai admin (untuk management produknya), login di halaman login menggunakan 
+
+```bash
+Username : admin
+Password : admin
+```
+Admin bisa menambahkan produk, mengedit produk (stok, nama, deskripsi), dan mendelete produk.
